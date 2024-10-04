@@ -1,0 +1,5 @@
+com\example\movieapiproject\controller\MovieController.class
+com\example\movieapiproject\entity\Movie.class
+com\example\movieapiproject\MovieapiprojectApplication.class
+com\example\movieapiproject\repository\MovieRepository.class
+com\example\movieapiproject\service\MovieService.class
